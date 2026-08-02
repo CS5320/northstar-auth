@@ -23,6 +23,16 @@ Several modernization efforts are currently being evaluated.
 
 Architecture decisions are documented in the Architecture repository.
 
+## Upcoming Work
+
+The Authentication Service remains stable but several architectural improvements have been identified.
+
+### TODO
+
+- [ ] Consolidate permission definitions
+- [ ] Retire legacy authentication endpoints
+- [ ] Review password reset workflow
+- [ ] Evaluate role hierarchy for future products
 ---
 
 ## Maintainers
